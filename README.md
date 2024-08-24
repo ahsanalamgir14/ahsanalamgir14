@@ -21,7 +21,7 @@ Hi there! I'm Ahsan, a Senior Software Engineer and seasoned freelancer with ove
 ![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ## Portfolio Link
-Checkout my projects and testimonials: [ahsanalamgir.com](https://ahsanalamgir.com/)
+Checkout my projects and testimonials: <a href="https://ahsanalamgir.com/" target="_blank">ahsanalamgir.com</a>
 
 ## How to Contact me?
-LinkedIn: [Ahsan Alamgir](https://www.linkedin.com/in/ahsan-alamgir/)
+LinkedIn: <a href="https://www.linkedin.com/in/ahsan-alamgir/" target="_blank">Ahsan Alamgir</a>
