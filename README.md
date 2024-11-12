@@ -23,5 +23,17 @@ Hi there! I'm Ahsan, a Senior Software Engineer and seasoned freelancer with ove
 ## Portfolio Link
 Checkout my projects and testimonials: <a href="https://ahsanalamgir.com/" target="_blank" rel="noopener noreferrer">ahsanalamgir.com</a>
 
+## UpWork Link
+<div style="align-items: center;display:flex;">
+    Checkout my UpWork Profile: <a href="https://www.upwork.com/freelancers/~01c8259b2408bb87e8?mp_source=share" target="_blank" rel="noopener noreferrer">Ahsan Alamgir @</a>&nbsp;
+        <img src="https://img.shields.io/badge/upwork-%23336B87.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork">
+</div>
+
+## Fiverr Link
+<div style="align-items: center;display:flex;">
+    Checkout my Fiverr Profile: <a href="https://www.fiverr.com/s/BRKpYxb" target="_blank" rel="noopener noreferrer">Ahsan Alamgir@</a>&nbsp;
+    <img src="https://img.shields.io/badge/fiverr-%2311B468.svg?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
+</div>
+
 ## How to Contact me?
 LinkedIn: <a href="https://www.linkedin.com/in/ahsan-alamgir/" target="_blank" rel="noopener noreferrer">Ahsan Alamgir</a>
