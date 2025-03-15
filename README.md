@@ -29,3 +29,6 @@ Checkout my projects and testimonials: <a href="https://ahsanalamgir.com/" targe
 
 ## How to Contact me?
 LinkedIn: <a href="https://www.linkedin.com/in/ahsan-alamgir/" target="_blank" rel="noopener noreferrer">Ahsan Alamgir</a>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=ahsanalamgir14&theme=default&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanalamgir14&theme=default&layout=compact&hide_border=true" /> |
+|-|-|
