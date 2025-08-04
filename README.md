@@ -41,7 +41,8 @@ Checkout my projects and testimonials: <a href="https://ahsanalamgir.com/" targe
 
 ## How to Contact me?
 
-LinkedIn: <a href="https://www.linkedin.com/in/ahsan-alamgir/" target="_blank" rel="noopener noreferrer">Ahsan Alamgir</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-alamgir/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanalamgir14@gmail.com)
 
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanalamgir14&theme=default" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahsanalamgir14&theme=default" /> |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
