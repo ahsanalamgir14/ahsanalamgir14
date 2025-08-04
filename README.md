@@ -50,4 +50,4 @@ LinkedIn: <a href="https://www.linkedin.com/in/ahsan-alamgir/" target="_blank" r
 
 ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ahsanalamgir14&theme=default&hide_border=true&count_private=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsanalamgir14&theme=default&hide_border=true&area=true&area_color=ff6b6b&line=ff6b6b&point=ff6b6b&color_scheme=light&custom_title=GitHub%20Contribution%20Graph)
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=ahsanalamgir14&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Contributions)
