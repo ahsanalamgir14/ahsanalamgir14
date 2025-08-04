@@ -44,9 +44,11 @@ Checkout my projects and testimonials: <a href="https://ahsanalamgir.com/" targe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-alamgir/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanalamgir14@gmail.com)
 
+## 📊 GitHub Statistics
+
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanalamgir14&theme=default" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahsanalamgir14&theme=default" /> |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 
-### 📊 Contribution Graph
+### 📈 Contribution Graph
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ahsanalamgir14&theme=default&hide_border=true&count_private=true)
