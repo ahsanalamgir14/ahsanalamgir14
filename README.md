@@ -48,4 +48,4 @@ LinkedIn: <a href="https://www.linkedin.com/in/ahsan-alamgir/" target="_blank" r
 
 ### 📊 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ahsanalamgir14&theme=default&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ahsanalamgir14&theme=default&hide_border=true&count_private=true)
