@@ -49,10 +49,9 @@ Checkout my projects and testimonials: <a href="https://ahsanalamgir.com/" targe
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanalamgir14&theme=default" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahsanalamgir14&theme=default" /> |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 
-### 📦 Repository Information
+### 📦 Repository Count
 
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahsanalamgir14&theme=default&hide_border=true" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahsanalamgir14&theme=default&hide_border=true" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanalamgir14&theme=default&hide_border=true&show_repos=true" alt="Repository Count" />
 
 ### 📈 Contribution Graph
 
