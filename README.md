@@ -43,5 +43,9 @@ Checkout my projects and testimonials: <a href="https://ahsanalamgir.com/" targe
 
 LinkedIn: <a href="https://www.linkedin.com/in/ahsan-alamgir/" target="_blank" rel="noopener noreferrer">Ahsan Alamgir</a>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ahsanalamgir14&theme=default&hide_border=true&show_icons=true&count_private=true&cache_seconds=86400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanalamgir14&theme=default&layout=compact&hide_border=true&cache_seconds=86400" /> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=ahsanalamgir14&theme=default&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanalamgir14&theme=default&layout=compact&hide_border=true&cache_seconds=86400" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### 📊 Contribution Graph
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ahsanalamgir14&theme=default&hide_border=true&count_private=true)
